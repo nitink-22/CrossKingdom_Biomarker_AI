@@ -1,5 +1,7 @@
 # Project CAP599: Uncovering Cross-Kingdom Heat Stress Survival Biomarkers Using a Unified Machine Learning Multi-Omics Pipeline
 
+**Live Dashboard:** [https://nitink-22-crosskingdom-biomarker-ai-dashboard-rxl89w.streamlit.app/](https://nitink-22-crosskingdom-biomarker-ai-dashboard-rxl89w.streamlit.app/)
+
 ## Overview
 The application of high-dimensional Machine Learning (Random Forest architecture) on transcriptomic (RNA-Seq) data to discover evolutionary conserved, universal thermal resilience mechanisms across both plant (*Oryza sativa*) and animal (*Bos taurus*) kingdoms.
 
